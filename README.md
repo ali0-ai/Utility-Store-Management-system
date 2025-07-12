@@ -1,6 +1,7 @@
 # 🛒 Utility Store Management System (C++ / Qt)
 
 This project is a **Utility Store Management System** developed using **C++ and the Qt Framework**, created as part of an academic assignment to demonstrate core concepts of **object-oriented programming**, **GUI design**, and **data management**.
+## Video Link: https://youtu.be/-_vM_0__O4g
 
 ## 🧰 Features
 
